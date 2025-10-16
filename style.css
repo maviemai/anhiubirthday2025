@@ -33,7 +33,7 @@ ol {
   font-size: 1.1rem;
 }
 
-img {
+img:first-of-type {
   border-radius: 8px;
   border: 2px solid rgb(39, 126, 77);
 }
@@ -42,3 +42,4 @@ a {
   color: #ff6699;
   text-decoration: none;
 }
+
